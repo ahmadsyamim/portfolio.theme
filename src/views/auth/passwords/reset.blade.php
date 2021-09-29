@@ -1,0 +1,1 @@
+@include('portfolio.modules.auth.passwords.reset')
