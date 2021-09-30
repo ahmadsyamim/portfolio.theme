@@ -3,12 +3,5 @@
 
 <main class="l-main">
     @yield('content')
-        
-    </main>
-    <!------------------------ Body ends from here ----------------------->
-
-{{-- <main class="main-content">
-    
-</main> --}}
-
-@include('portfolio.partials.footer')
+</main>
+<!------------------------ Body ends from here ----------------------->

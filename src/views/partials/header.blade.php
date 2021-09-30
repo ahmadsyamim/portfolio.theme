@@ -5,7 +5,7 @@
             </div>
 
             <div>
-                <a href="#" class="nav__logo">Nihory</a>
+                <a href="#" class="nav__logo">Syamim</a>
             </div>
 
             <div class="nav__menu" id="nav-menu">
