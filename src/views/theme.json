@@ -1,5 +1,6 @@
 {
     "name": "portfolio",
+    "package_name": "ahmadsyamim/portfolio.theme",
     "extends": "",
     "asset-path": "portfolio",
     "views-path": "portfolio"
